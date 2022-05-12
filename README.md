@@ -37,6 +37,8 @@
 
 NSEIKRL
 
+#### Efeitos Sonoros e Músicas
+
 #### Personagens:
 
   O jogo tem 2 pesonagens, o seu player, Gossan um cadete da academia Militar Intergalática que precisa se provar nos desafios apresentados pela outra personagem a Chief Master Sergeant Karen Hernández, responsável pelo treinamento dos cadetes na academia.
