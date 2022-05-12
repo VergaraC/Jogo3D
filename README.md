@@ -1,8 +1,31 @@
 # Jogo3D
 
-#### Por André Rocco e Victor Vergara
+### Por André Rocco e Victor Vergara
 #### Professor Luciano Soáres e Professor Auxíliar Emil Freire
 
+
+##### Definições gerais:
+  Gênero: Platformer;
+  Plataformas: PC;
+  Público alvo: Jogadorer de jogos Indie
+  
+##### Conceito:
+
+  Gossan é o escolhido do planeta chamado Terra para estudar e treinar na academia Imperial Real para se tornar parte da Força Espacial Real Insterglática, mas antes de iniciar o seu treinamento é dado 4 desafios para completar, o resultado desses desafios irá decidir o seu futuro.
+  
+##### Mecânica:
+
+
+##### Fluxo do jogo:
+
+##### Controle:
+
+##### Interfaces:
+
+##### Características:
+
+##### Arte:
+  
 O jogo começa com você um recruta na academia militar intergaláctica, onde você está fazendo um teste de habilidade para saber qual será a sua patente dentro das forças armadas e treinado de acordo com ela. A patente será decidida de acordo com quantas fases você for capaz de resolver 
 No início do teste você é dado uma BlockGun.
 
