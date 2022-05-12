@@ -22,6 +22,11 @@ public class PlatformGun : MonoBehaviour
                 Debug.Log(GameManager.cubos);
             }
         }
+
+        if (Input.GetButtonDown("Fire2") && !MenuController.GameIsPaused)
+        {
+            DeletePlatform();
+        }
     }
 
     void ShootPlatform()
@@ -37,4 +42,18 @@ public class PlatformGun : MonoBehaviour
             }
         }
     }
+
+    void DeletePlatform()
+    {
+        RaycastHit hit;
+        if (Physics.Raycast(cam.transform.position, cam.transform.forward, out hit, range))
+        {
+            Hittable hittable = hit.transform.GetComponent<Hittable>();
+            if (hittable != null)
+            {
+                Destroy(hittable);
+            }
+        }
+    }
 }
+
