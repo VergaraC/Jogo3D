@@ -30,7 +30,7 @@
 
 #### Características:
 
-    O Jogo não requer nenhuma habilidade do jogador inicial, basta pensar antes de montar o mapa na estrutura e se familiazar com a velocidade e altura do pulo, mas para isso tem o tutorial (fase 0) e a sandbox.
+  O Jogo não requer nenhuma habilidade do jogador inicial, basta pensar antes de montar o mapa na estrutura e se familiazar com a velocidade e altura do pulo, mas para isso tem o tutorial (fase 0) e a sandbox.
     
 
 #### Arte:
