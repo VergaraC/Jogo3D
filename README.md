@@ -5,8 +5,11 @@
 
 
 ##### Definições gerais:
+
   Gênero: Platformer;
+  
   Plataformas: PC;
+  
   Público alvo: Jogadores de jogos Indie
   
 ##### Conceito:
