@@ -13,8 +13,9 @@
 
   Gossan é o escolhido do planeta chamado Terra para estudar e treinar na academia Imperial Real para se tornar parte da Força Espacial Real Insterglática, mas antes de iniciar o seu treinamento é dado 4 desafios para completar, o resultado desses desafios irá decidir o seu futuro.
   
-##### Mecânica:
+##### Mecânicas:
 
+  O jogo é um platformer onde o jogador monta as suas plataformas com a sua BlockGun, cada fase você terá um número máximo de blocos a serem postos, com os blocos postos você deve subir, pulando de um bloco para o outro até chegar ao final.
 
 ##### Fluxo do jogo:
 
