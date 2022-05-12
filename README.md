@@ -7,7 +7,7 @@
 ##### Definições gerais:
   Gênero: Platformer;
   Plataformas: PC;
-  Público alvo: Jogadorer de jogos Indie
+  Público alvo: Jogadores de jogos Indie
   
 ##### Conceito:
 
@@ -17,7 +17,7 @@
   
 ##### Mecânicas:
 
-  O jogo é um platformer onde o jogador monta as suas plataformas com a sua BlockGun, cada fase você terá um número máximo de blocos a serem postos, com os blocos postos você deve subir, pulando de um bloco para o outro até chegar ao final.
+  O jogo é um First-Person platformer onde o jogador monta as suas plataformas com a sua BlockGun, cada fase você terá um número máximo de blocos a serem postos, com os blocos postos você deve subir, pulando de um bloco para o outro até chegar ao final.
 
 
 ##### Controle:
@@ -25,29 +25,16 @@
   Para movimentar o player basta Utilizar as teclas WASD. E para utilizar a BlockGun utilize o mouse para mirar e o botão esquerdo para atirar os blocos.
 
 
-##### Interfaces:
-
 ##### Características:
 
+    O Jogo não requer nenhuma habilidade do jogador inicial, basta pensar antes de montar o mapa na estrutura e se familiazar com a velocidade e altura do pulo, mas para isso tem o tutorial (fase 0) e a sandbox.
+    
+
 ##### Arte:
-  
-O jogo começa com você um recruta na academia militar intergaláctica, onde você está fazendo um teste de habilidade para saber qual será a sua patente dentro das forças armadas e treinado de acordo com ela. A patente será decidida de acordo com quantas fases você for capaz de resolver 
-No início do teste você é dado uma BlockGun.
 
-A meta do jogo é completar as todas fases, para isso é necessário utilizar suas habilidades de parkour e criação de mapas. 
-Com ajuda da BlockGun Monte o seu caminho para chegar ao topo e cada vez mais próximo da sua meta.
-A BlockGun pode tanto botar um bloco na parede onde está mirando ou atirar um bloco sem prende-lo que pode ser utilizado para apertar botões e outras funções.
-O Player também pode correr e pular para percorrer o caminho que montou.
+NSEIKRL
 
+##### Personagens:
 
-
-### Features:
-
-- Correr
-- Pulo
-- Botões iterativos que modificam o mapa
-- Adicionar Blocos estátios (BlockGun)
-- Adicionar Blocos dinâmicos (BlockGun)
-
-
+  O jogo tem 2 pesonagens, o seu player, Gossan um cadete da academia Militar Intergalática que precisa se provar nos desafios apresentados pela outra personagem a Chief Master Sergeant Karen Hernández, responsável pelo treinamento dos cadetes na academia.
 
