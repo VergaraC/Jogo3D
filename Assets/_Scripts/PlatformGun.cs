@@ -9,13 +9,11 @@ public class PlatformGun : MonoBehaviour
 
     void Update()
     {
-        if(Input.GetButtonDown("Fire1"))
+        if(Input.GetButtonDown("Fire1") && !MenuController.GameIsPaused)
         {
             if (GameManager.cubos > 0)
             {
                 ShootPlatform();
-                GameManager.cubos--;
-                Debug.Log(GameManager.cubos);
             }
 
             else

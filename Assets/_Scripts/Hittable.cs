@@ -8,5 +8,6 @@ public class Hittable : MonoBehaviour
     public void SpawnPlatform(Vector3 p)
     {
         Instantiate(prefab, p, Quaternion.identity);
+        GameManager.cubos--;
     }
 }

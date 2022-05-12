@@ -26,6 +26,7 @@ public class GameManager : MonoBehaviour
         switch (newState)
         {
             case GameState.TitleMenu:     
+                Cursor.lockState = CursorLockMode.None;
                 SceneManager.LoadScene("Menu");
                 break;
             case GameState.Level1:
