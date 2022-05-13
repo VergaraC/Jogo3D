@@ -10,7 +10,7 @@
   
   Plataformas: PC;
   
-  Público alvo: Jogadores de jogos Indie
+  Público alvo: Jogadores de plataformers
   
 #### Conceito:
 
