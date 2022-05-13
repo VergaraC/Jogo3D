@@ -48,10 +48,10 @@ public class PlatformGun : MonoBehaviour
         RaycastHit hit;
         if (Physics.Raycast(cam.transform.position, cam.transform.forward, out hit, range))
         {
-            Hittable hittable = hit.transform.GetComponent<Hittable>();
-            if (hittable != null)
+            Destroyable destroyable = hit.transform.GetComponent<Destroyable>();
+            if (destroyable != null)
             {
-                Destroy(hittable);
+                destroyable.DeletePlatform();
             }
         }
     }

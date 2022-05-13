@@ -31,15 +31,15 @@ public class GameManager : MonoBehaviour
                 break;
             case GameState.Level1:
                 SceneManager.LoadScene("Level1");
-                cubos = 200;
+                cubos = 50;
                 break;
             case GameState.Level2:
                 SceneManager.LoadScene("Level2");
-                cubos = 40;
+                cubos = 1;
                 break;
             case GameState.Level3:
                 SceneManager.LoadScene("Level3");
-                cubos = 15;
+                cubos = 1;
                 break;
             case GameState.Tutorial:
                 SceneManager.LoadScene("Tutorial");
