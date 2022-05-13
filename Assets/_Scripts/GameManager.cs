@@ -9,6 +9,7 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
     public GameState GameState;
     public static int cubos;
+    public GameObject startUI;
 
     void Awake()
     {
@@ -25,7 +26,11 @@ public class GameManager : MonoBehaviour
         GameState = newState;
         switch (newState)
         {
-            case GameState.TitleMenu:     
+            case GameState.TitleMenu:   
+                if (MenuController.GameIsStarting)
+                {
+                    startUI.SetActive(true);
+                }
                 Cursor.lockState = CursorLockMode.None;
                 SceneManager.LoadScene("Menu");
                 break;
