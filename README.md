@@ -37,18 +37,19 @@
 
 O jogo é um jogo 3D LowPolly com um estilo parecido com Minecraft, de onde foi inspirado a ideia do jogo, visto que o Minecraft é um dos jogos que incentivaram parkour em jogos.
 
+
 #### Efeitos Sonoros e Músicas:
 
   Som de atirar o bloco com a BlockGun: https://soundbible.com/2067-Blop.html
   
   Som de pegar o bloco com a BlockGun : https://soundbible.com/40-Super-Punch-MMA.html
   
-  Background music: Sardaukar Chant de Hans Zimmer
+  Background music: Imperial March LoFi de Closed on Sunday
   
   A música é propositalmente desconfortável e estranha para que Gossan e o jogador estejam desconfortáveis, para testar as suas habilidades em momentos de estresse e desconfortantes.
   
 
 #### Personagens:
 
-  O jogo tem 2 pesonagens, o seu player, Gossan um cadete da academia Militar Intergalática que precisa se provar nos desafios apresentados pela outra personagem a Chief Master Sergeant Karen Hernández, responsável pelo treinamento dos cadetes na academia.
+  O jogo tem 2 pesonagens, o seu player, Gossan um cadete da academia Militar Intergalática que precisa se provar nos desafios apresentados pela outra personagem a Chief Master Sergeant Karen Hernández, dublada por Beatriz (Bilbia) Muniz, responsável pelo treinamento dos cadetes na academia.
 
