@@ -25,7 +25,7 @@
 
 #### Controle:
 
-  Para movimentar o player basta Utilizar as teclas WASD. E para utilizar a BlockGun utilize o mouse para mirar e o botão esquerdo para atirar os blocos.
+  Para movimentar o player basta Utilizar as teclas WASD. E para utilizar a BlockGun utilize o mouse para mirar e o botão esquerdo para atirar os blocos e o botão direito para pegar os blocos de volta.
 
 
 #### Características:
