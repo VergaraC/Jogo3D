@@ -35,9 +35,18 @@
 
 #### Arte:
 
-NSEIKRL
+O jogo é um jogo 3D LowPolly com um estilo parecido com Minecraft, de onde foi inspirado a ideia do jogo, visto que o Minecraft é um dos jogos que incentivaram parkour em jogos.
 
-#### Efeitos Sonoros e Músicas
+#### Efeitos Sonoros e Músicas:
+
+  Som de atirar o bloco com a BlockGun: https://soundbible.com/2067-Blop.html
+  
+  Som de pegar o bloco com a BlockGun : https://soundbible.com/40-Super-Punch-MMA.html
+  
+  Background music: Sardaukar Chant de Hans Zimmer
+  
+  A música é propositalmente desconfortável e estranha para que Gossan e o jogador estejam desconfortáveis, para testar as suas habilidades em momentos de estresse e desconfortantes. Mas caso esteja apenas querendo descontrair pode mutar a música no menu.  
+  
 
 #### Personagens:
 
