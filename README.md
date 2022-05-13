@@ -45,7 +45,7 @@ O jogo é um jogo 3D LowPolly com um estilo parecido com Minecraft, de onde foi 
   
   Background music: Sardaukar Chant de Hans Zimmer
   
-  A música é propositalmente desconfortável e estranha para que Gossan e o jogador estejam desconfortáveis, para testar as suas habilidades em momentos de estresse e desconfortantes. Mas caso esteja apenas querendo descontrair pode mutar a música no menu.  
+  A música é propositalmente desconfortável e estranha para que Gossan e o jogador estejam desconfortáveis, para testar as suas habilidades em momentos de estresse e desconfortantes.
   
 
 #### Personagens:
