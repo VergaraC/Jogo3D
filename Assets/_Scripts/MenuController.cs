@@ -81,4 +81,9 @@ public class MenuController : MonoBehaviour
         GameIsStarting = false;
         startUi.SetActive(false);
     }
+
+    public void OnClickQuit()
+    {
+        Application.Quit();
+    }
 }

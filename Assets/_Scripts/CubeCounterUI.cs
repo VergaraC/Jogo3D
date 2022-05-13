@@ -9,6 +9,6 @@ public class CubeCounterUI : MonoBehaviour
 
     void Update()
     {
-        Counter.text = $"Cubes: {GameManager.cubos}";
+        Counter.text = $"BLOCKS: {GameManager.cubos}";
     }
 }
